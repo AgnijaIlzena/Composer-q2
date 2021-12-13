@@ -1,0 +1,10 @@
+{
+    "name": "ilzen/composer-q2",
+    "autoload": {
+        "psr-4": {
+            "Ilzen\\ComposerQ2\\": "src/",
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
